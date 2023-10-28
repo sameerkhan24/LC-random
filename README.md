@@ -45,9 +45,9 @@ E.g., `./LC-random -topic "Sliding Window"`
 ## Points to remember 
 
  - You can change the name of the executable files. The executing command will be changed accordingly
- - You can't change the name of the Excel file from LC.xlsx. 
+ - You can't change the name of the Excel file from LC.xlsx 
  - LC.xlsx should be in the same location as the executable file
  - You can edit LC.xlsx to add more questions
  - The columns for PROBLEM, TOPIC, LINK, and Times Solved should not be removed or tampered with. 
- - Make sure to add the link is when you add new problems
+ - Make sure to add the link when you add new problems
 
