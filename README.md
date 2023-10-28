@@ -15,7 +15,7 @@ This is a CLI App built using Golang. It gives you random Leetcode questions to 
 
 
 ## Usage
-Executable files and Excel template are available in `USE` folder. There are separate folders for Linus, windows and Mac. There is also a zip file also with Windows and Mac executables and LC template. 
+Executable files and Excel template are available in `USE` folder. There are separate folders for Linux, windows and Mac. There is also a zip file also with Windows and Mac executables and LC template. 
 
 ### Windows 
 
